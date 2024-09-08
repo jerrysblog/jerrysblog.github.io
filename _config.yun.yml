@@ -1,0 +1,38 @@
+#favicon: /favicon.ico
+
+#首页标语
+banner:
+  enable: true
+  title: 追逐星光编织的岁月
+  border: true
+  cloud:
+    enable: true
+    color: white
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
+
+#公告
+notice:
+  enable: true
+  content: Welcome to my wonderland!
+
+#背景模糊
+bg_image:
+  enable: true
+  url: /images/background.jpg
+  # dark:
+  blur: 10px # 设置背景模糊程度
+  opacity: 0.6
+
+#头像
+avatar:
+  enable: true
+  url: /images/avatar.png
+  rounded: true
+  opacity: 1
+  mickey_mouse: false
+  status:
+    enable: true
+    emoji: ☺️
+    message: Happy Every Day

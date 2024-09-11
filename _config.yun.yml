@@ -39,7 +39,7 @@ avatar:
 
 #页脚
 footer:
-  since: 2024 # 起始年份
+  since: 2023 # 起始年份
   # icon:
   #   name: ri:cloud-line
   #   animated: true
@@ -60,17 +60,38 @@ footer:
  
   live_time: # 运行时间
     enable: true
-    prefix: 感谢陪伴
+    prefix: Thanks for being there
     suffix: (●'◡'●)
     start_time: '2024-09-05T18:40:00' # 开始时间
  
-  #support: # 支持，例如又拍云联盟之类的
-  #  enable: true
-  #  title: 雨云
-  #  link: https://www.rainyun.com/YeMeng_
-  #  logo: https://cn-sy1.rains3.com/yemenghexo/rainyunlogo.png
-  #  prefix: 本站由
-  #  suffix: 提供 对象存储 服务
+  support: # 支持，例如又拍云联盟之类的
+    enable: true
+    title: MY MOM
+    #link: https://www.rainyun.com/YeMeng_
+    #logo: https://cn-sy1.rains3.com/yemenghexo/rainyunlogo.png
+    prefix: This site is supported by
+    suffix: for everything except technology
  
+pages:
+  - name: My Friends
+    url: /links/
+    icon: ri:genderless-line
+    color: dodgerblue
+
+menu:
+  home:
+    path: /
+    icon: ri:home-4-line
+  list:
+    - type: archives
+      path: /archives/
+      icon: ri:archive-line
+    - type: categories
+      path: /categories/
+      icon: ri:folder-2-line
+    - type: tags
+      path: /tags/
+      icon: ri:price-tag-3-line
+
 #下面是自定义文本，你可以自由填写
   #custom_text: YourText <a href="yourLink" rel="noopener" target="_blank">Description</a>

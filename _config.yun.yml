@@ -64,13 +64,13 @@ footer:
     suffix: (●'◡'●)
     start_time: '2024-09-05T18:40:00' # 开始时间
  
-  #support: # 支持，例如又拍云联盟之类的
-  #  enable: true
-  #  title: MY MOM
+  support: # 支持，例如又拍云联盟之类的
+    enable: true
+    title: MY MOM
     #link: https://www.rainyun.com/YeMeng_
     #logo: https://cn-sy1.rains3.com/yemenghexo/rainyunlogo.png
-  #  prefix: This site is supported by
-  #  suffix: for everything except technology
+    prefix: This site is supported by
+    suffix: for everything except technology
  
 pages:
   - name: My Friends

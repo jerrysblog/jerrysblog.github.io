@@ -25,6 +25,8 @@ bg_image:
   blur: 10px # 设置背景模糊程度
   opacity: 0.6
 
+medium_zoom: true
+
 #头像
 avatar:
   enable: true
@@ -78,20 +80,52 @@ pages:
     icon: ri:genderless-line
     color: dodgerblue
 
-#menu:
-#  home:
-#    path: /
-#    icon: ri:home-4-line
-#  list:
-#    - type: archives
-#      path: /archives/
-#      icon: ri:archive-line
-#    - type: categories
-#      path: /categories/
-#      icon: ri:folder-2-line
-#    - type: tags
-#      path: /tags/
-#      icon: ri:price-tag-3-line
+sidebar:
+  bg_image: ### 
+  bg_position: bottom 3rem center
+  tagcloud:
+    enable: false
+    amount: 20
+
+
+
+
+menu:
+  home:
+    path: /
+    icon: ri:home-4-line
+  list:
+    - type: archives
+      path: /archives/
+      icon: ri:archive-line
+    - type: categories
+      path: /categories/
+      icon: ri:folder-2-line
+    - type: tags
+      path: /tags/
+      icon: ri:price-tag-3-line
 
 #下面是自定义文本，你可以自由填写
   #custom_text: YourText <a href="yourLink" rel="noopener" target="_blank">Description</a>
+
+social:
+  - name: GitHub
+    link: https://github.com/jerrysblog
+    icon: ri:github-line
+    color: '#181717'
+  - name: E-Mail
+    link: mailto:jerry + jerryscript.top
+    icon: ri:mail-line
+    color: '#8E71C1'
+  #- name: 知乎
+  #  link: https://www.zhihu.com/people/yemengstar
+  #  icon: ri:zhihu-line
+  #  color: '#0084FF'
+  #- name: 哔哩哔哩
+  #  link: https://space.bilibili.com/1951763981
+  #  icon: ri:bilibili-line
+  #  color: '#FF8EB3'
+  # - name: 微信公众号
+  #   link: #
+  #   icon: ri:wechat-2-line
+  #   color: '#1AAD19'

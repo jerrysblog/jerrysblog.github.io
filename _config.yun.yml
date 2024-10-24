@@ -34,7 +34,7 @@ medium_zoom: true
 #头像
 avatar:
   enable: true
-  url: https://img.picui.cn/free/2024/10/24/6719b9bd64ef3.png
+  url: /images/avatar.png
   rounded: true
   opacity: 1
   mickey_mouse: false
@@ -65,7 +65,7 @@ footer:
     enable: true
     title: MY MOM
     #link: https://www.rainyun.com/YeMeng_
-    logo: https://img.picui.cn/free/2024/10/24/6719b9a097ccd.png
+    logo: /images/mother.png
     prefix: This site is supported by MY MOM
     suffix: for steaming spare ribs
  

@@ -71,8 +71,8 @@ footer:
     title: MY MOM
     #link: https://www.rainyun.com/YeMeng_
     logo: /images/mother.png
-    prefix: This site is supported by
-    suffix: for everything except technology
+    prefix: This site is supported by MY MOM
+    suffix: for steaming spare ribs
  
 pages:
   - name: My Friends

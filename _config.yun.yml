@@ -20,7 +20,7 @@ notice:
 #背景模糊
 bg_image:
   enable: true
-  url: https://s2.loli.net/2024/10/23/rupRyACzo391QKT.jpg
+  url: /images/background.jpg
   # dark:
   blur: 10px # 设置背景模糊程度
   opacity: 0.6
@@ -68,7 +68,7 @@ footer:
     enable: true
     title: MY MOM
     #link: https://www.rainyun.com/YeMeng_
-    logo: https://smms.app/image/MiORdAC6Y7UKgw3
+    logo: /images/mother.png
     prefix: This site is supported by
     suffix: for everything except technology
  

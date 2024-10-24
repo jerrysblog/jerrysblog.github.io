@@ -24,6 +24,7 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-yun": "^1.10.11",
+    "lightgallery.js": "^1.4.0",
     "wordcloud": "^1.2.2"
   }
 }

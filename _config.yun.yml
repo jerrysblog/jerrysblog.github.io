@@ -122,3 +122,20 @@ social:
   #   link: #
   #   icon: ri:wechat-2-line
   #   color: '#1AAD19'
+
+#相册功能
+albums:
+  enable: false
+
+#标签
+tags:
+  Develop: '#4fc08d'
+  Myself: '#0E834D'
+  School: '#5298d1'
+  Thoughts: '#E6E6FA'
+
+#分类
+categories:
+  Notes or Jottings: '#FFA500'
+  Whimsical Ideas or Creative Thoughts: '#008000'
+  Meaningless Works: '#FF7F50'

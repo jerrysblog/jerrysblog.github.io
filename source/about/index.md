@@ -29,5 +29,5 @@ I aim to study at a top university around the world. I believe in lifelong learn
 
 Feel free to reach out to me via:
 
-- Email: [jerry@jerryscript.top](mailto:jerry + jerryscript.top)
+- Email: jerry + jerryscript.top
 - GitHub: [jerrysblog](https://github.com/jerrysblog)

@@ -1,6 +1,7 @@
 ---
 abbrlink: Desk Lamp? Charging Power Bank!
 categories:
+- - This Blog
 - - Meaningless Works
 date: '2024-10-24T22:04:40.112121+08:00'
 tags:

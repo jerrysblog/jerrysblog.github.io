@@ -1,13 +1,11 @@
 ---
-abbrlink: Desk Lamp? Charging Power Bank!
 categories:
 - - This Blog
 - - Meaningless Works
-date: '2024-10-24T22:04:40.112121+08:00'
+title: Desk Lamp? Charging Power Bank!
+date: 2024-10-25 08:20:33
 tags:
 - Develop
-title: Charging Power Banks That Don't Want to Shine Aren't Good Desk Lamps
-updated: '2024-10-24T22:06:46.679+08:00'
 ---
 # Charging Power Banks That Don't Want to Shine Aren't Good Desk Lamps
 

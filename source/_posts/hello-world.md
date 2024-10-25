@@ -1,7 +1,7 @@
 ---
 abbrlink: ''
 categories:
-- - This Blog
+
 date: 2024-09-05T18:40:0+08:00
 tags: []
 title: Hello World

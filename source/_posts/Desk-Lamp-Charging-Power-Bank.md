@@ -1,6 +1,5 @@
 ---
 categories:
-- - This Blog
 - - Meaningless Works
 title: Desk Lamp? Charging Power Bank!
 date: 2024-10-25 08:20:33
